@@ -4,7 +4,7 @@
         <link>https://www.metabd.cc/navigation/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</link>
         <description>数据分析 - 元宇宙项目 - 斗极元宇宙导航</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
-            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 14 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/navigation/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 21 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/navigation/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" rel="self" type="application/rss+xml" /><item>
     <title>元宇宙工具</title>
     <link>https://www.metabd.cc/pnavigation/metaverse-tools/</link>
     <pubDate>Wed, 06 Jul 2022 08:47:36 &#43;0800</pubDate><author>
@@ -12,76 +12,76 @@
     </author><guid>https://www.metabd.cc/pnavigation/metaverse-tools/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>Alethio</title>
-    <link>https://www.metabd.cc/navigation/alethio/</link>
-    <pubDate>Thu, 14 Jul 2022 21:57:40 &#43;0800</pubDate><author>
-                    <name>MineW</name><uri>https://www.metabd.cc/authors/minew</uri></author><guid>https://www.metabd.cc/navigation/alethio/</guid>
+    <title>ETH 2.0收益计算 翻译站点</title>
+    <link>https://www.metabd.cc/navigation/eth-2-0shouyijisuan/</link>
+    <pubDate>Thu, 21 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>MineW</name><uri>https://www.metabd.cc/authors/minew</uri></author><guid>https://www.metabd.cc/navigation/eth-2-0shouyijisuan/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/alethio.jpg" referrerpolicy="no-referrer">
-            </div>Alethio 创建 EthStats 可定制的分析平台，旨在将区块链数据从黑暗中拉出，推动透明度向前发展，并使过去和现在的以太坊数据易于访问和消化，赋予用户权力。 ‎从以太]]></description>
+                <img src="/eth-2-0shouyijisuan.png" referrerpolicy="no-referrer">
+            </div>ETH 2计算器使用ConsenSys Codefi的ETH2电子表格提供的框架。以太坊2.0计算器的社区讨论，其变量和假设可在Telegram频道]]></description>
 </item><item>
-    <title>Satoshi.info</title>
-    <link>https://www.metabd.cc/navigation/satoshi-info/</link>
-    <pubDate>Thu, 14 Jul 2022 21:57:40 &#43;0800</pubDate><author>
-                    <name>浮尘</name><uri>https://www.metabd.cc/authors/%E6%B5%AE%E5%B0%98</uri></author><guid>https://www.metabd.cc/navigation/satoshi-info/</guid>
+    <title>Ethernodes</title>
+    <link>https://www.metabd.cc/navigation/ethernodes/</link>
+    <pubDate>Thu, 21 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>MineW</name><uri>https://www.metabd.cc/authors/minew</uri></author><guid>https://www.metabd.cc/navigation/ethernodes/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/satoshi-info.jpg" referrerpolicy="no-referrer">
-            </div>Jameson Lopp 在 Statoshi.info 上公开提供 Statoshi 项目的实例。没有采用 Graphite 导航界面，改用功能强大的仪表板构建工具 Grafana 进行呈现，足够直观，也足够复杂，足以让高技术人员从数据中收]]></description>
+                <img src="/ethernodes.jpg" referrerpolicy="no-referrer">
+            </div>查询全网以太坊节点的浏览器。网站排名有助于评估企业的价值。]]></description>
 </item><item>
-    <title>SiaStats.info</title>
-    <link>https://www.metabd.cc/navigation/siastats-info/</link>
-    <pubDate>Thu, 14 Jul 2022 21:57:40 &#43;0800</pubDate><author>
-                    <name>浮尘</name><uri>https://www.metabd.cc/authors/%E6%B5%AE%E5%B0%98</uri></author><guid>https://www.metabd.cc/navigation/siastats-info/</guid>
+    <title>FRST</title>
+    <link>https://www.metabd.cc/navigation/frst/</link>
+    <pubDate>Thu, 21 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>浮尘</name><uri>https://www.metabd.cc/authors/%E6%B5%AE%E5%B0%98</uri></author><guid>https://www.metabd.cc/navigation/frst/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/siastats-info.jpg" referrerpolicy="no-referrer">
-            </div>SiaStats.info 是一个非营利性项目，旨在为 Sia 社区提供实时统计数据、高级指标和其他工具，用于监控和审计 Sia 区块链。SiaStats 是旨在为 Sia 网络提供基础设施、]]></description>
+                <img src="/frst.jpg" referrerpolicy="no-referrer">
+            </div>FRST.io 针对企业级交易平台的加密应用，可追踪链上大而微妙的交易移动，以充分了解整个行情市场，还可以使用扩展数据集调整算法.]]></description>
 </item><item>
-    <title>Whiteblock</title>
-    <link>https://www.metabd.cc/navigation/whiteblock/</link>
-    <pubDate>Thu, 14 Jul 2022 14:57:40 &#43;0800</pubDate><author>
-                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/navigation/whiteblock/</guid>
+    <title>Glassnode</title>
+    <link>https://www.metabd.cc/navigation/glassnode/</link>
+    <pubDate>Thu, 21 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>seven</name><uri>https://www.metabd.cc/authors/seven</uri></author><guid>https://www.metabd.cc/navigation/glassnode/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/whiteblock.jpg" referrerpolicy="no-referrer">
-            </div>区块链测试平台 Whiteblock，可帮助开发团队更快地验证区块链性能，并部署分布式分类账技术。他们正在为特定客户提供区块链测试即服务 BTa]]></description>
+                <img src="/glassnode.jpg" referrerpolicy="no-referrer">
+            </div>Glassnode 由研究人员、架构师与企业家团队组成，他们在加密领域拥有多年的经验，并对数字货币充满热情。其核心主旨是「释放链上数据的价值」，所提供的产品与]]></description>
 </item><item>
-    <title>Solidus Labs</title>
-    <link>https://www.metabd.cc/navigation/solidus-labs/</link>
-    <pubDate>Wed, 13 Jul 2022 21:57:40 &#43;0800</pubDate><author>
-                    <name>浮尘</name><uri>https://www.metabd.cc/authors/%E6%B5%AE%E5%B0%98</uri></author><guid>https://www.metabd.cc/navigation/solidus-labs/</guid>
+    <title>Exchange War</title>
+    <link>https://www.metabd.cc/navigation/exchange-war/</link>
+    <pubDate>Thu, 21 Jul 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/navigation/exchange-war/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/solidus-labs.jpg" referrerpolicy="no-referrer">
-            </div>Solidus 市场监控平台，由前高盛 Goldman Sachs 金融技术工程师设计，利用机器学习技术帮助发现、解决、调查和报告数字资产交易中的市场操纵行为。 Solidus Labs的使命是在]]></description>
+                <img src="/exchange-war.jpg" referrerpolicy="no-referrer">
+            </div>加密数字货币交易平台的排行榜，依据活跃的交易量信息，帮助你形成更全球化的视角。]]></description>
 </item><item>
-    <title>Venture Scanner</title>
-    <link>https://www.metabd.cc/navigation/venture-scanner/</link>
-    <pubDate>Wed, 13 Jul 2022 14:57:40 &#43;0800</pubDate><author>
-                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/navigation/venture-scanner/</guid>
+    <title>分叉监视器-BitMEX</title>
+    <link>https://www.metabd.cc/navigation/fenchajianshiqi-bitmex/</link>
+    <pubDate>Thu, 21 Jul 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/navigation/fenchajianshiqi-bitmex/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/venture-scanner.jpg" referrerpolicy="no-referrer">
-            </div>技术驱动的研究公司 Venture Scanner，通过精心设计的执行摘要与分析，获知深刻见解，掌握趋势。用丰富的数据集为数据分析提供动力。 Venture Scanner 是一家研究公]]></description>
+                <img src="/fenchajianshiqi-bitmex.jpg" referrerpolicy="no-referrer">
+            </div>世界各地的交易者每天在 BitMEX 上交易相当于数十亿美元。自 2016 年推出 XBTUSD 永续合约以来，BitMEX 一直处于加密货币交易的最前沿。快进到现在，它仍然是有史]]></description>
 </item><item>
-    <title>以太坊gas站</title>
-    <link>https://www.metabd.cc/navigation/yitaifanggaszhan/</link>
-    <pubDate>Tue, 12 Jul 2022 21:57:40 &#43;0800</pubDate><author>
-                    <name>yangsi</name><uri>https://www.metabd.cc/authors/yangsi</uri></author><guid>https://www.metabd.cc/navigation/yitaifanggaszhan/</guid>
+    <title>发明者量化</title>
+    <link>https://www.metabd.cc/navigation/famingzhelianghua/</link>
+    <pubDate>Thu, 21 Jul 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/navigation/famingzhelianghua/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/yitaifanggaszhan.png" referrerpolicy="no-referrer">
-            </div>以太坊gas站旨在提高以太坊网络的gas价格，交易确认时间和矿工政策的透明度。 以太坊的 Gas 费是以太坊网络的动力，就像汽油是汽车的动力一样。我们]]></description>
+                <img src="/famingzhelianghua.png" referrerpolicy="no-referrer">
+            </div>发明者量化平台 由 发明者量化 为量化爱好者（宽客）量身打造的云平台，提供精准的回测功能、高速实盘交易接口、易用的API文档、由易入难的策略库，便]]></description>
 </item><item>
-    <title>The Stablecoin Index</title>
-    <link>https://www.metabd.cc/navigation/the-stablecoin-index/</link>
-    <pubDate>Mon, 11 Jul 2022 21:57:40 &#43;0800</pubDate><author>
-                    <name>浮尘</name><uri>https://www.metabd.cc/authors/%E6%B5%AE%E5%B0%98</uri></author><guid>https://www.metabd.cc/navigation/the-stablecoin-index/</guid>
+    <title>CB Insights</title>
+    <link>https://www.metabd.cc/navigation/cb-insights/</link>
+    <pubDate>Wed, 20 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>MineW</name><uri>https://www.metabd.cc/authors/minew</uri></author><guid>https://www.metabd.cc/navigation/cb-insights/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/the-stablecoin-index.jpg" referrerpolicy="no-referrer">
-            </div>The Stablecoin Index 稳定币指数，是由 Myles Snider 与 Mike McDonald 合作的开源工具，用于跟踪和比较各种稳定币项目。具体列出按市值排名的实时、公开交易的稳定币数据，以及价格、交易]]></description>
+                <img src="/cb-insights.jpg" referrerpolicy="no-referrer">
+            </div>CB Insights 提炼数据输出有价值的投资报告，有针对区块链的部分。 技术正在颠覆每个企业和行业。我们随时为您提供帮助。我们的使命是使每个组织都能做出更明智]]></description>
 </item><item>
-    <title>Token Analyst</title>
-    <link>https://www.metabd.cc/navigation/token-analyst/</link>
-    <pubDate>Mon, 11 Jul 2022 21:57:40 &#43;0800</pubDate><author>
-                    <name>浮尘</name><uri>https://www.metabd.cc/authors/%E6%B5%AE%E5%B0%98</uri></author><guid>https://www.metabd.cc/navigation/token-analyst/</guid>
+    <title>CBECI</title>
+    <link>https://www.metabd.cc/navigation/cbeci/</link>
+    <pubDate>Wed, 20 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>MineW</name><uri>https://www.metabd.cc/authors/minew</uri></author><guid>https://www.metabd.cc/navigation/cbeci/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/token-analyst.jpg" referrerpolicy="no-referrer">
-            </div>Token Analyst 实时追踪链上交易量，以获得加密数字生态系统的最全面画像；了解给定通证的所有权基础的集中化程度，特别是项目团队和早期投资者持有多少；监控大]]></description>
+                <img src="/cbeci.jpg" referrerpolicy="no-referrer">
+            </div>CBECI，剑桥比特币电力消费指数，由 CambridgeAltFin CJBS 创建和维护，提供了一种实时模型，可跟踪比特币网络的年度用电量。这一试点项目，旨在回应对比特币挖矿的]]></description>
 </item></channel>
 </rss>

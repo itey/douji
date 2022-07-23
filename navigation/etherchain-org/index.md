@@ -1,7 +1,7 @@
 # etherchain.org
 
-
 以太坊区块链资源管理器，掌控以太坊的实时信息，满足用户搜索需求
-探索以太坊链，检查您的余额，查找交易或查看一些图表
 
-Etherscan允许用户查看任何公共以太坊钱包地址上持有的资产。使用Etherscan，在搜索框中输入任何以太坊地址，以查看所考虑的钱包的当前余额和交易历史记录。Etherscan还将显示涉及该地址的任何gas费用和智能合约。
+##### 探索[以太坊链](https://etherchain.org/blocks)，检查您的[余额](https://etherchain.org/accounts)，查找[交易](https://etherchain.org/txs)或查看一些[图表](https://etherchain.org/charts)！
+
+![image-20220721140530552](image-20220721140530552.png)
